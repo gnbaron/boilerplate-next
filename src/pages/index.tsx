@@ -1,3 +1,3 @@
-export default function Hello({ title = 'world' }) {
+export default function Hello({ title = 'next' }) {
   return <h1>hello {title}</h1>
 }
